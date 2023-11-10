@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "picture": "url_alice.jpg",
+      "isFriend": true
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "picture": "url_bob.jpg",
+      "isFriend": false
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "picture": "url_charlie.jpg",
+      "isFriend": true
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "picture": "url_david.jpg",
+      "isFriend": false
+    },
+    {
+      "id": 5,
+      "name": "Eva",
+      "picture": "url_eva.jpg",
+      "isFriend": true
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "picture": "url_frank.jpg",
+      "isFriend": false
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "picture": "url_grace.jpg",
+      "isFriend": true
+    },
+    {
+      "id": 8,
+      "name": "Hank",
+      "picture": "url_hank.jpg",
+      "isFriend": false
+    },
+    {
+      "id": 9,
+      "name": "Ivy",
+      "picture": "url_ivy.jpg",
+      "isFriend": true
+    },
+    {
+      "id": 10,
+      "name": "Jack",
+      "picture": "url_jack.jpg",
+      "isFriend": false
+    }
+  ]
+}
